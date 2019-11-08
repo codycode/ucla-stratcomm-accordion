@@ -46,6 +46,11 @@ Other Resources
 - role = region - https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Roles/Region_role
 *******/
 
+$default-state: #00598c;
+$hover-state: #ffe500;
+$ucla-blue: #2774ae;
+$lightest-grey-2: #e5e5e5;
+
 .accordion {
   padding: 48px 24px 48px 24px;
   transition: 0.5s;
